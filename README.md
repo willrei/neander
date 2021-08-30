@@ -1,2 +1,2 @@
-# Implementação do NEANDER em VHDL
-Trabalho final da disciplina Sistemas Digitais.
+# Neander
+Trabalho final da disciplina [Sistemas Digitais](https://www.inf.ufrgs.br/site/wp-content/uploads/2020/12/INF01175.pdf), o qual consistiu na implementação da máquina hipotética [Neander](http://www.inf.ufrgs.br/arq/wiki/doku.php?id=neander) (com algumas modificações) em VHDL, na simulação do circuito com a utilização de testbenches e na síntese do mesmo para o FPGA Spartan-3E. Os arquivos criados estão na pasta [copia_vhds](https://github.com/willrei/neander/tree/main/copia_vhds), enquanto que o relatório com detalhes sobre a implementação pode ser visualizado [aqui](https://github.com/willrei/neander/blob/main/relatorio.pdf).
